@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: China University of Petroleum - Beijing
+  - name: China University of Petroleum - Beijing (CUPB)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,4 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Bin Wang (王斌) is an assistant professor of Petroleum Engineering at the CUPB. His research interests include high performance computing, digital rock physics and particle laden flow. He is the member of Waterjet Drilling & Completion Lab, which is leaded by Professor Gensheng Li (Academician of the Chinese Academy of Engineering) who develops the technology of abrasive water jet perforation and multi-stage fracturing.

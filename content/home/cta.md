@@ -2,6 +2,10 @@
 title:
 subtitle:
 widget: blank
+
+# Activate this widget? true/false
+active: false
+
 headless: true
 weight: 40
 design:

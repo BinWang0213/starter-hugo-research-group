@@ -73,5 +73,5 @@ user_groups:
   - Researchers
 ---
 
-Dr. Bin Wang (王斌) obtained his Ph.D. degree at the Louisiana State University with Prof. Karsten Thompson and Prof. Richard Hughes. He joined the CUPB in Feb 2022 as an assistant professor at the Department of Petroleum Engineering. He is the member of Waterjet Drilling & Completion Lab, which is leaded by Professor Gensheng Li (Academician of the Chinese Academy of Engineering) who develops the technology of abrasive water jet perforation and multi-stage fracturing.
+Dr. Bin Wang (王斌) obtained his Ph.D. degree at the Louisiana State University with Prof. Karsten Thompson and Prof. Richard Hughes. He joined the CUPB in Feb 2022 as an assistant professor at the Department of Petroleum Engineering. He is the member of Waterjet Drilling & Completion Lab, which is leaded by Professor Gensheng Li (Academician of the Chinese Academy of Engineering).
 

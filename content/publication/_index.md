@@ -14,7 +14,7 @@ banner:
 
 <br>
 
-1. Zhou, X., Yin, Q., & Wang, B. (2022). Automatic Fault Segmentation Using Wavelet Convolutional Neural Networks. Day 3 Thu, March 24, 2022, D031S031R006. https://doi.org/10.4043/31529-MS
+1. Zhou, X., Yin, Q., & Wang, B. (2022). Automatic Fault Segmentation Using Wavelet Convolutional Neural Networks. Day 3 Thu, March 24, 2022, D031S031R006. <a href="https://doi.org/10.4043/31529-MS">[DOI]</a>
 2. Wang, B., Feng, Y., Zhou, X., Pieraccini, S., Scialò, S., & Fidelibus, C. (2022). Discontinuous boundary elements for steady-state fluid flow problems in discrete fracture networks. Advances in Water Resources, 161, 104125. https://doi.org/10.1016/j.advwatres.2022.104125
 3. Wang, B., Wald, I., Morrical, N., Usher, W., Mu, L., Thompson, K., & Hughes, R. (2022). An GPU-accelerated particle tracking method for Eulerian–Lagrangian simulations using hardware ray tracing cores. Computer Physics Communications, 271, 108221. https://doi.org/10.1016/j.cpc.2021.108221
 4. Lie, K.-A., & Møyner, O. (2021). Advanced modelling with the MATLAB reservoir simulation toolbox.
@@ -22,7 +22,7 @@ banner:
 6. Demidov, D., Mu, L., & Wang, B. (2021). Accelerating linear solvers for Stokes problems with C++ metaprogramming. Journal of Computational Science, 49, 101285. https://doi.org/10.1016/j.jocs.2020.101285
 7. Wang, B., Feng, Y., Blears, J., Thompson, K., & Hughes, R. (2021). Streamline-based simulation of nanoparticle transport in field-scale heterogeneous subsurface systems. Advances in Water Resources, 148, 103842. https://doi.org/10.1016/j.advwatres.2020.103842
 8. Yang, B., Wang, H., Shen, Z., Olorode, O., Wang, B., Zheng, Y., Yan, W., & Jia, Z. (2021). Full-Sample X-ray Microcomputed Tomography Analysis of Supercritical CO 2 Fracturing in Tight Sandstone: Effect of Stress on Fracture Dynamics. Energy & Fuels, 35(2), 1308–1321. https://doi.org/10.1021/acs.energyfuels.0c03554
-9. Yang, B., Wang, H., Wang, B., Shen, Z., Zheng, Y., Jia, Z., & Yan, W. (2021). Digital quantification of fracture in full-scale rock using micro-CT images: A fracturing experiment with N2 and CO2. Journal of Petroleum Science and Engineering, 196, 107682. https://doi.org/10.1016/j.petrol.2020.107682
+9.  Yang, B., Wang, H., Wang, B., Shen, Z., Zheng, Y., Jia, Z., & Yan, W. (2021). Digital quantification of fracture in full-scale rock using micro-CT images: A fracturing experiment with N2 and CO2. Journal of Petroleum Science and Engineering, 196, 107682. https://doi.org/10.1016/j.petrol.2020.107682
 10. Wang, B., Mu, L., ,Craft &amp; Hawkins Department of Petroleum Engineering, Louisiana State University, 2245 Patrick F Taylor Hall, Baton Rouge, LA, 70803, USA, & ,Department of Mathematics, University of Georgia, Athens, GA, 30605, USA. (2021). Viscosity robust weak Galerkin finite element methods for Stokes problems. Electronic Research Archive, 29(1), 1881–1895. https://doi.org/10.3934/era.2020096
 11. Ning, X., Feng, Y., & Wang, B. (2020). Numerical simulation of channel fracturing technology in developing shale gas reservoirs. Journal of Natural Gas Science and Engineering, 83, 103515. https://doi.org/10.1016/j.jngse.2020.103515
 12. Olorode, O., Wang, B., & Rashid, H. U. (2020). Three-Dimensional Projection-Based Embedded Discrete-Fracture Model for Compositional Simulation of Fractured Reservoirs. SPE Journal, 25(04), 2143–2161. https://doi.org/10.2118/201243-PA

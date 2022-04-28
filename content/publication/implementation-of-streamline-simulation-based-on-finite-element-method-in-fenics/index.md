@@ -31,7 +31,7 @@ authors:
   - Bin Wang
   - Liehui Zhang
   - and Yulong Zhao
-publication: ""
+publication: Computational Geosciences
 featured: false
 tags:
   - Source Themes

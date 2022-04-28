@@ -52,4 +52,6 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+We are looking for the best and brightest people to navigate the unexplored territory of science together.
+<br>
+You will have the chance to challenge the long-standing unanswered questions in molecular biology by making a technological breakthrough. We pursue agility in our research. Every process in research in our lab is tightly associated with another and feeds back every day. You will be joining up with the talented colleagues to solve the difficult questions.

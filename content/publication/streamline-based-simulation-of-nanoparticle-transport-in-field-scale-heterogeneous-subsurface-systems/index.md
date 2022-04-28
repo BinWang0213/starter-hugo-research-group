@@ -27,7 +27,7 @@ authors:
   - John Blears
   - Karsten Thompson
   - and Richard Hughes
-publication: ""
+publication: Advances in Water Resources
 featured: false
 tags:
   - Source Themes

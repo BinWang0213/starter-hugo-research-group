@@ -1,5 +1,5 @@
 ---
-title: "1. Iterative coupling algorithms for large multidomain problems with the
+title: "Iterative coupling algorithms for large multidomain problems with the
   boundary element method: Iterative coupling algorithms for Boundary Element
   Method"
 abstract: A new parallel Robin-Robin adaptive iterative coupling algorithm with

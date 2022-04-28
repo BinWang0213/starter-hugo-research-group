@@ -44,7 +44,7 @@ authors:
   - Yong Zheng
   - Wanjuan Yan
   - and Zhaoyang Jia
-publication: ""
+publication: Energy Fuels
 featured: false
 tags:
   - Source Themes

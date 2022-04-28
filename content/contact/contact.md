@@ -15,19 +15,17 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: bin.wang@cup.edu.cn
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 18 Fuxue Road
+    city: Beijing
+    postcode: '102249'
+    country: China
+    country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '116.251764'
+    longitude: '40.222405'
+  directions: Enter Zhongyou Building at South Campuse Zone and take the elevator to Office 1012
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'

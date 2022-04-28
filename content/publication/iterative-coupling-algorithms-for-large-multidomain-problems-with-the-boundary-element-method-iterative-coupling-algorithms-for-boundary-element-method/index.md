@@ -25,7 +25,7 @@ authors:
   - Sandra Pieraccini
   - Stefano Scialò
   - and Corrado Fidelibus
-publication: ""
+publication: International Journal for Numerical Methods in Engineering
 featured: false
 tags:
   - Source Themes

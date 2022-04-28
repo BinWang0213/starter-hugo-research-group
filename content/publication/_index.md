@@ -17,8 +17,6 @@ banner:
 
 <br>
 
----
-weight: 20
 
 ### Book Chapter
 1. Lie, K.-A., & Møyner, O. (2021). Advanced modelling with the MATLAB reservoir simulation toolbox.
@@ -46,4 +44,3 @@ weight: 20
 13. **Wang, B**., Feng, Y., Pieraccini, S., Scialò, S., & Fidelibus, C. (2019). Iterative coupling algorithms for large multidomain problems with the boundary element method: Iterative coupling algorithms for Boundary Element Method. International Journal for Numerical Methods in Engineering, 117(1), 1–14. https://doi.org/10.1002/nme.5943
 14. **Wang, B**., Feng, Y., Du, J., Wang, Y., Wang, S., & Yang, R. (2018). An Embedded Grid-Free Approach for Near-Wellbore Streamline Simulation. SPE Journal, 23(02), 567–588. https://doi.org/10.2118/182614-PA
 15. **Wang, B**., Li, G., Huang, Z., Ma, T., Zheng, D., & Li, K. (2017). Lab Testing and Finite Element Method Simulation of Hole Deflector Performance for Radial Jet Drilling. Journal of Energy Resources Technology, 139(3), 03296. https://doi.org/10.1115/1.4035552
----

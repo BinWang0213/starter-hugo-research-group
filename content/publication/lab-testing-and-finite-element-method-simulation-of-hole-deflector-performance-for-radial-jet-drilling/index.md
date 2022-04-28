@@ -33,7 +33,7 @@ authors:
   - Tianqi Ma
   - Dongbo Zheng
   - and Kui Li
-publication: ""
+publication: Journal of Energy Resources Technology
 featured: false
 tags:
   - Source Themes

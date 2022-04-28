@@ -23,8 +23,8 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '40.222405'
-    longitude: '116.251764'
+    latitude: '40.21492'
+    longitude: '116.23929'
   directions: Enter Zhongyou Building at South Campuse Zone and take the elevator to Office 1012
   office_hours:
     - 'Monday 10:00 to 13:00'

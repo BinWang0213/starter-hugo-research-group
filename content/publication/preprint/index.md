@@ -1,65 +1,63 @@
 ---
-title: 'An example preprint / working paper'
+title: An Embedded Grid-Free Approach for Near-Wellbore Streamline Simulation
+abstract: "Reactive-transport phenomena, such as carbon dioxide sequestration
+  and microbial enhanced oil recovery (EOR), have been of interest in
+  streamline-based simulation (SLS). Tracing streamlines launched from a
+  wellbore is important, especially for time-sensitive transport behaviors.
+  However, discretized gridblocks are usually too large compared with the
+  wellbore radius. Field-scale simulations with localgrid-reﬁnement (LGR) models
+  often consume huge computational time. An embedded grid-free approach to
+  integrate near-wellbore transport behaviors into streamline simulations is
+  developed, comprising two stages of development: tracing streamlines in a
+  wellblock (a gridblock containing wells) and coupling streamlines with
+  neighboring grids. The velocity ﬁeld in a wellblock is produced using a
+  gridless virtual-boundary-element method (VBEM), where streamlines are
+  numerically traced with the fourth-order Runge-Kutta (RK4) method (Butcher
+  2008). The local streamline system is then connected with the global
+  streamline system, which is produced with the Pollock (1988) algorithm.
+  Finally, the reactive-transport equation will be solved along these
+  streamlines."
+slides: null
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+publication_types:
+  - "2"
 authors:
-  - admin
-date: '2019-04-07T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['3']
-
-# Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Wang
+  - Bin
+  - Yin Feng
+  - Juan Du
+  - Yihui Wang
+  - Sijie Wang
+  - and Ruiyue Yang
+publication: ""
+featured: false
 tags:
   - Source Themes
-featured: false
-
+projects:
+  - internal-project
+summary: "Tracing streamlines launched from a wellbore is important, especially
+  for time-sensitive transport behaviors. An embedded grid-free approach to
+  integrate near-wellbore transport behaviors into streamline simulations is
+  developed. "
+url_dataset: "#"
+url_project: ""
+publication_short: ""
+url_source: "#"
+url_video: "#"
+date: 2018-04-12T00:00:00.000Z
+url_slides: ""
 links:
   - name: Custom Link
     url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+  filename: nearwellborestreamline.jpg
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: "#"
+doi: ""
 ---
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

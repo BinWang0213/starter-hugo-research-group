@@ -24,7 +24,7 @@ publication_types:
   - "2"
 authors:
   - Wang Bin and Corrado Fidelibus
-publication: ""
+publication: Geosciences
 featured: false
 tags:
   - Source Themes

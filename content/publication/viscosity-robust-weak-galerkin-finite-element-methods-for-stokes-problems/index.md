@@ -14,7 +14,7 @@ publication_types:
 authors:
   - Bin Wang
   - Lin Mu
-publication: SPE Journal
+publication: Electronic Research Archive
 featured: false
 tags:
   - Source Themes

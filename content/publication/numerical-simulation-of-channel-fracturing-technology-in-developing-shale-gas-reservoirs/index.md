@@ -36,7 +36,7 @@ authors:
   - Ning Xuewei
   - Yin Feng
   - and Bin Wang
-publication: ""
+publication: Journal of Natural Gas Science and Engineering
 featured: false
 tags:
   - Source Themes

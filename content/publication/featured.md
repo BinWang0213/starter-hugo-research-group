@@ -6,16 +6,13 @@ title: Featured Publications
 
 weight: 10 # Order that this section will appear.
 
-# Listing view
-view: citation
-
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 
 content:
-  count: 5
+  count: 3
   filters:
     author: ''
     category: ''
@@ -25,7 +22,9 @@ content:
   offset: 0
   order: desc
   page_type: feature_publication
-
+design:
+  view: 3
+  columns: '2'
 # reference
 # http://www.casperalbers.nl/post/2020-05-31-connecting-hugo-and-excel-for-your-list-of-publications/
 ---

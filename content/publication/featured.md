@@ -23,8 +23,8 @@ content:
   order: desc
   page_type: feature_publication
 design:
-  view: 3
-  columns: '2'
+  view: 2
+  columns: '1'
 # reference
 # http://www.casperalbers.nl/post/2020-05-31-connecting-hugo-and-excel-for-your-list-of-publications/
 ---

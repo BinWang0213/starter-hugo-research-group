@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: Featured Publications
 
-weight: 20 # Order that this section will appear.
+weight: 10 # Order that this section will appear.
 
 # Listing view
 view: citation

@@ -3,12 +3,12 @@
 widget: blank
 
 headless: true
-weight: 10
+weight: 20
 
 # Activate this widget? true/false
 active: true
 
-title: Featured Publications
+title: Publications List
 subtitle:
 
 design:

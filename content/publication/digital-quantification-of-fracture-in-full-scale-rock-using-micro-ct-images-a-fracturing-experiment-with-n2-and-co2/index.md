@@ -34,7 +34,7 @@ publication_types:
   - "2"
 authors:
   - Wang Bin and Corrado Fidelibus
-publication: ""
+publication: Journal of Petroleum Science and Engineering
 featured: false
 tags:
   - Source Themes

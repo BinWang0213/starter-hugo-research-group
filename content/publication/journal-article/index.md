@@ -53,9 +53,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: dfnx.png
-date: 2022-04-28T02:07:19.863Z
+date: 2022-01-14T02:07:19.863Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---

@@ -33,7 +33,7 @@ authors:
   - Lin Mu
   - Karsten Thompson
   - and Richard Hughes
-publication: ""
+publication: Computer Physics Communications
 featured: false
 tags:
   - Source Themes

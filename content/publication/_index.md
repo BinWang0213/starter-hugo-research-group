@@ -1,6 +1,8 @@
 ---
 title: Publications
 
+weight: 10 # Order that this section will appear.
+
 # Listing view
 view: citation
 
@@ -9,6 +11,8 @@ banner:
   caption: ''
   image: ''
 ---
+
+<br>
 
 1. Zhou, X., Yin, Q., & Wang, B. (2022). Automatic Fault Segmentation Using Wavelet Convolutional Neural Networks. Day 3 Thu, March 24, 2022, D031S031R006. https://doi.org/10.4043/31529-MS
 2. Wang, B., Feng, Y., Zhou, X., Pieraccini, S., Scialò, S., & Fidelibus, C. (2022). Discontinuous boundary elements for steady-state fluid flow problems in discrete fracture networks. Advances in Water Resources, 161, 104125. https://doi.org/10.1016/j.advwatres.2022.104125

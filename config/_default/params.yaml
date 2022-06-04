@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2021-{Lastmod} Bin Wang. Waterjet Drilling & Completion Lab'
+    notice: '© 2021-{year} Bin Wang. Waterjet Drilling & Completion Lab'
     license:
       enable: false
       allow_derivatives: false

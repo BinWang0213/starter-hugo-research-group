@@ -16,6 +16,11 @@ role: Assistant Professor
 organizations:
   - name: China University of Petroleum - Beijing (CUPB)
     url: ''
+    org_logo: 'assets\media\logo.png'
+  
+  - name: China University of Petroleum - Beijing (CUPB)
+    url: ''
+    org_logo: 'assets\media\logo.png'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include High performance computing, Digital rock physics and Particle laden flow.

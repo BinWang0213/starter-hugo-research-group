@@ -37,8 +37,5 @@ news:
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "20px", "20px", "20px"]
-
+    padding: ["30px", "20px", "30px", "20px"]
 ---
-
-📰 Dr. Wang joined the Department of Petroleum Engineering of China University of Petroleum-Beijing.

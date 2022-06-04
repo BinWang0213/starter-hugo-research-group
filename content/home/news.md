@@ -3,7 +3,7 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: News

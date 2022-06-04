@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: pages
 headless: true  # This file represents a page section.
 
 # Activate this widget? true/false
@@ -10,7 +10,7 @@ title: News
 subtitle: ''
 
 # Position of this section on the page
-weight: 1
+weight: 40
 
 content:
   # Filter content to display

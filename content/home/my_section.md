@@ -32,6 +32,13 @@ news:
   - new: 🏆 Dr. Wang wins DRP Visualization Challenge gold metal!
     loc: Austin, US
     date: March 7, 2021
+
+
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "20px", "20px", "20px"]
+
 ---
 
 📰 Dr. Wang joined the Department of Petroleum Engineering of China University of Petroleum-Beijing.

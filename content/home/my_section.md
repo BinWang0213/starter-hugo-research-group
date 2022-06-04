@@ -20,7 +20,7 @@ title:
 author: BinWang
 
 news:
-  - new: Dr. Wang joined the Department of Petroleum Engineering of China University of Petroleum-Beijing.
+  - new: 📰 Dr. Wang joined the Department of Petroleum Engineering of China University of Petroleum-Beijing.
     loc: Beijing, China
     date: Feb 1, 2022
   - new: 📰 Dr. Wang joined the Waterjet Drilling & Completion Lab of CUPB.

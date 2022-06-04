@@ -24,10 +24,10 @@ bio: My research interests include High performance computing, Digital rock phys
 bio_feature: Dr. Wang's research focuses on understanding the multiphase particle-laden flow in fractured porous media using advanced computational and experimental tools. The research objective is to develop engineered particle-based fluid technology to characterize the energy reservoirs and improve the recovery of existing and unconventional resources.
 
 interests:
-  - In-situ digital rock imaging and modeling
+  - Digital rock imaging and modeling
   - High-performance computing and simualtion
-  - Flow and transport phenomena in fractured unconventional reservoirs
-  - Nanofluids transport in unconventional reservoirs
+  - Flow and transport in fractured unconventional reservoirs
+  - Nanofluids/P transport in unconventional reservoirs
   - Proppant transport in complex fracture networks
 
 education:

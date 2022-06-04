@@ -29,16 +29,16 @@ interests:
 
 education:
   courses:
-    - course: PhD in Petroleum Engineering
+    - course: PhD
       institution: Louisiana State University
-      year: 2012
-    - course: MEng in Petroleum Engineering
+      year: 2021
+    - course: MEng
       institution: University of Louisiana at Lafayette
       year: 2015
-    - course: MEng in Petroleum Engineering
+    - course: MEng
       institution: China University of Petroleum - Beijing
       year: 2015
-    - course: BSc in Petroleum Engineering
+    - course: BSc
       institution: Yangtze University
       year: 2012
 

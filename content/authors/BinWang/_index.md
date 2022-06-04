@@ -34,7 +34,7 @@ education:
       year: 2021
     - course: MEng in Petroleum Engineering
       institution: University of Louisiana at Lafayette
-      year: 2015
+      year: 2017
     - course: MEng in Petroleum Engineering
       institution: China University of Petroleum - Beijing
       year: 2015

@@ -41,7 +41,7 @@ design:
 
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "20px", "10px", "20px"]
+    padding: ["20px", "20px", "0px", "20px"]
   
   font_size_min: 1.0
   font_size_max: 0.9

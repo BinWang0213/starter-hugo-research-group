@@ -1,54 +1,21 @@
 ---
-widget: slider
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
 
-# This file represents a page section.
-headless: true
-
-# Activate this widget? true/false
-active: false
-
-# Order that this section appears on the page.
-weight: 10
-
+widget: hero # See https://wowchemy.com/docs/page-builder/
+headless: true # This file represents a page section.
+weight: 10 # Order that this section will appear.
+title: 
+hero_media: welcome.jpg
 design:
-  # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
-  is_fullscreen: false
-  # Automatically transition through slides?
-  loop: True
-  # Duration of transition between slides (in ms)
-  interval: 2000
-
-content:
-  slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
-      align: center
-      background:
-        position: right
-        color: '#666'
-        brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: welcome.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
 ---
 
+<br>
+
+The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.

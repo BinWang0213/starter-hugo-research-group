@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: lab1.jpg
+        media: lab1_slide.jpg
     - title: Digital rock physics
       content: 'Explore fluid and particle dyanmics at the pore-scale!'
       align: left
@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: research2.png
+        media: research2.jpg
     - title: Welcome to join us!
       content: 'PhD and Post-doc positions are availabe!'
       align: right

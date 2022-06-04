@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: research2.jpg
+        media: research2.png
     - title: Welcome to join us!
       content: 'PhD position is availabe!'
       align: right

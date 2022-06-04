@@ -16,8 +16,8 @@ design:
 content:
   slides:
     - title: Home of Bin Research Group 
-      content: 'Center of Innovation for Particle-laden Flow through Porous Media'
-      align: center
+      content: 'Center of Innovation for Particle-laden Flow through Fractured Porous Media'
+      align: left
       background:
         position: right
         color: '#666'

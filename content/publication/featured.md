@@ -27,5 +27,6 @@ design:
   columns: '1'
 # reference
 # http://www.casperalbers.nl/post/2020-05-31-connecting-hugo-and-excel-for-your-list-of-publications/
+# https://www.emmanuelteitelbaum.com/post/managing-pubs-academic-website/
 ---
 

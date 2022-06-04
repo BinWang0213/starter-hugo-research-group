@@ -20,7 +20,7 @@ title:
 author: BinWang
 ---
 
-### [News ]({{< relref "/events" >}})
+### [News ]({{< relref "/event" >}})
 <span style="font-size:0.9em;">
 * [**Feb 1, 2022**] Dr. Wang joined the Department of Petroleum Engineering of China University of Petroleum-Beijing.
 * [**Jan 1, 2022**] Dr. Wang joined the Waterjet Drilling & Completion Lab of CUPB.

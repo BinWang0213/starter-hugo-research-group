@@ -37,7 +37,7 @@ content:
       background:
         position: center
         color: '#333'
-        brightness: 0.5
+        brightness: 0.7
         media: teams.jpg
       link:
         icon: graduation-cap

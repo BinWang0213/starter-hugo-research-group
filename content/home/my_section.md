@@ -29,4 +29,5 @@ author: BinWang
 
 {{< icon name="terminal" pack="fas" >}} **Nov 7, 2021** 🏆 Dr. Wang wins DRP Visualization Challenge gold metal!
 
+{{< cta cta_text="More" cta_link="/event" cta_new_tab="false" >}}
 

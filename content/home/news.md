@@ -38,4 +38,8 @@ design:
   view: card
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
+
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "20px", "30px", "20px"]
 ---

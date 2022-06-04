@@ -29,7 +29,7 @@ content:
   count: 3
   # Choose how many pages you would like to offset by
   # Useful if you wish to show the first item in the Featured widget
-  offset: -1
+  offset: -2
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: false
@@ -41,5 +41,5 @@ design:
 
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["30px", "20px", "30px", "20px"]
+    padding: ["20px", "20px", "30px", "20px"]
 ---

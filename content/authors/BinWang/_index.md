@@ -22,7 +22,7 @@ bio: My research interests include High performance computing, Digital rock phys
 
 interests:
   - In-situ digital rock imaging and modeling
-  - High-performance cloud-based computing and simualtion
+  - High-performance computing and simualtion
   - Flow and transport phenomena in fractured unconventional reservoirs
   - Nanofluids transport in unconventional reservoirs
   - Proppant transport in complex fracture networks

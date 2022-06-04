@@ -1,35 +1,48 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+widget: slider
+weight: 1
+active: true
+headless: true
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-#title: |
-#  Fractured Porous Media Group
-hero_media: bio2.jpg
 design:
-#   # Choose how many columns the section has. Valid values: 1 or 2.
-    columns: '2'
-#   # Add custom styles
-#   css_style:
-#   css_class:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: ''
+  is_fullscreen: false
+  # Automatically transition through slides?
+  loop: True
+  # Duration of transition between slides (in ms)
+  interval: 2000
+
+content:
+  slides:
+    - title: 👋 Welcome to the group
+      content: Take a look at what we're working on...
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: coders.jpg
+    - title: Lunch & Learn ☕️
+      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: contact.jpg
+    - title: World-Class Semiconductor Lab
+      content: 'Just opened last month!'
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: welcome.jpg
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Join Us
+        url: ../contact/
 ---
-
-
-
-<br>
-
-<span style="font-size:0.8em;line-height: 0.7;">
-Dr. Wang's research focuses on understanding the multiphase particle-laden flow in fractured porous media using advanced computational and experimental tools. The research objective is to develop engineered particle-based fluid technology to characterize the energy reservoirs, design the engineering practices and improve the recovery of existing and unconventional resources. Currently, my research topics include:
-</span>
-
-* In-situ pore-scale imaging and modeling
-* High-performance cloud-based computing and simualtion
-* Flow and transport phenomena in fractured unconventional reservoirs
-* Nanofluids transport in unconventional reservoirs
-* Proppant transport in complex fracture networks
-
-
 

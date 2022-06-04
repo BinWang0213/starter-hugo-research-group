@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bin Wang
+title: Bin Wang (王斌)
 
 # Username (this should match the folder name)
 authors:
@@ -21,10 +21,11 @@ organizations:
 bio: My research interests include High performance computing, Digital rock physics and Particle laden flow.
 
 interests:
-  - High performance computing
-  - Digital rock physics
-  - Particle laden flow
-  - Flow and transport phenomena in fractured porous media
+  - In-situ digital rock imaging and modeling
+  - High-performance cloud-based computing and simualtion
+  - Flow and transport phenomena in fractured unconventional reservoirs
+  - Nanofluids transport in unconventional reservoirs
+  - Proppant transport in complex fracture networks
 
 education:
   courses:
@@ -73,5 +74,5 @@ user_groups:
   - Researchers
 ---
 
-Dr. Bin Wang (王斌) obtained his Ph.D. degree at the Louisiana State University with Prof. Karsten Thompson and Prof. Richard Hughes. He joined the CUPB in Feb 2022 as an assistant professor at the Department of Petroleum Engineering. He is the member of Waterjet Drilling & Completion Lab, which is leaded by Professor Gensheng Li (Academician of the Chinese Academy of Engineering).
+Dr. Wang's research focuses on understanding the multiphase particle-laden flow in fractured porous media using advanced computational and experimental tools. The research objective is to develop engineered particle-based fluid technology to characterize the energy reservoirs, design the engineering practices and improve the recovery of existing and unconventional resources. Currently, my research topics include:
 

@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Waterjet Drilling & Completion Lab | 高压水射流钻井与完井实验室 # Website name
+title: Waterjet Drilling & Completion Lab # Website name
 baseURL: 'https://binwang.netlify.app/' # Website URL
 
 ############################

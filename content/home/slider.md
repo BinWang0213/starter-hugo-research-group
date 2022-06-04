@@ -32,7 +32,7 @@ content:
         brightness: 0.7
         media: research2.png
     - title: Welcome to join us!
-      content: 'PhD position is availabe!'
+      content: 'PhD and Post-doc positions are availabe!'
       align: right
       background:
         position: center

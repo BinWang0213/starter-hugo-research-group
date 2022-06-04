@@ -35,7 +35,7 @@ content:
   sort_ascending: false
 design:
   # Choose a listing view, list, compact, card
-  view: list
+  view: card
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 ---

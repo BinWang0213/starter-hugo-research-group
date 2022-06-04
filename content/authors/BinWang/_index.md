@@ -20,6 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include High performance computing, Digital rock physics and Particle laden flow.
 
+# Long bio as a group leader
+bio_feature: Dr. Wang's research focuses on understanding the multiphase particle-laden flow in fractured porous media using advanced computational and experimental tools. The research objective is to develop engineered particle-based fluid technology to characterize the energy reservoirs and improve the recovery of existing and unconventional resources.
+
 interests:
   - In-situ digital rock imaging and modeling
   - High-performance computing and simualtion
@@ -74,5 +77,5 @@ user_groups:
   - Researchers
 ---
 
-Dr. Wang's research focuses on understanding the multiphase particle-laden flow in fractured porous media using advanced computational and experimental tools. The research objective is to develop engineered particle-based fluid technology to characterize the energy reservoirs and improve the recovery of existing and unconventional resources.
+
 

@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: China University of Petroleum - Beijing (CUPB)
+  - name: China University of Petroleum - Beijing (CUPB) bin.wang@cup.edu.cn
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

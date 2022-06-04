@@ -37,7 +37,7 @@ design:
   # Choose a listing view, list, compact, card
   view: list
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.

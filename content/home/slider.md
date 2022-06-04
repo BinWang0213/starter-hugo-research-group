@@ -15,30 +15,30 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: Home of Bin Research Group 
+      content: 'Center of Innovation for Particle-laden Flow through Porous Media'
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+        media: bio2.jpg
+    - title: Digital rock physics
+      content: 'Explore fluid and particle dyanmics at the pore-scale!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+        media: research1.jpg
+    - title: Welcome to join us!
+      content: 'PhD position is availabe!'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: teams.jpg
       link:
         icon: graduation-cap
         icon_pack: fas

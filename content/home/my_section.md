@@ -21,10 +21,11 @@ author: BinWang
 ---
 
 ### [News ]({{< relref "/events" >}})
+<span style="font-size:0.9em;">
 * [**Feb 1, 2022**] Dr. Wang joined the Department of Petroleum Engineering of China University of Petroleum-Beijing.
 * [**Jan 1, 2022**] Dr. Wang joined the Waterjet Drilling & Completion Lab of CUPB.
 * [**Nov 7, 2021**] 📰 Wang et al. 2021 published in "Computer Physics Communications" on GPU accelerated particle tracking algorihtm!
 * [**March 7, 2020**] 🏆 Dr. Wang wins DRP Visualization Challenge gold metal!
-
+</span>
 
 

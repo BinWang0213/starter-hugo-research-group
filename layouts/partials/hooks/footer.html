@@ -27,6 +27,6 @@
 
 <p class="powered-by copyright-license-text">
 {{ with .GitInfo }}
-  Last Updated on: {{ .CommitDate.Format "2006-01-02 15:26"}}</p>
+  Last Updated on: {{ .CommitDate.Format "2006-01-02 15:26"}} {{ .AbbreviatedHash }}
 {{- end }}
 </p>

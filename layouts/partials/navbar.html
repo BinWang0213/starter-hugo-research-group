@@ -22,9 +22,9 @@
         <a class="navbar-brand" href="{{ "/" | relLangURL }}">
           {{- if $has_logo -}}
             <img src="{{ $logo.RelPermalink }}" style="display:inline;" alt="{{ site.Title }}"
+            <span style='padding-left: 10px;' >{{- site.Title -}}</span>
             {{with site.Params.header.image.width}}width="{{.}}"{{end}}
             {{with site.Params.header.image.height}}height="{{.}}"{{end}}
-            <span style='padding-left: 10px;' >{{- site.Title -}}</span>
             >
           {{- else -}}
             {{- site.Title -}}
@@ -45,9 +45,9 @@
         <a class="navbar-brand" href="{{ "/" | relLangURL }}">
         {{- if $has_logo -}}
             <img src="{{ $logo.RelPermalink }}" style="display:inline;" alt="{{ site.Title }}"
+            <span style='padding-left: 10px;' >{{- site.Title -}}</span>
             {{with site.Params.header.image.width}}width="{{.}}"{{end}}
             {{with site.Params.header.image.height}}height="{{.}}"{{end}}
-            <span style='padding-left: 10px;' >{{- site.Title -}}</span>
             >
         {{- else -}}
           {{- site.Title -}}

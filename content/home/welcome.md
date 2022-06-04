@@ -1,8 +1,14 @@
 ---
 widget: slider
-weight: 1
-active: true
+
+# This file represents a page section.
 headless: true
+
+# Activate this widget? true/false
+active: false
+
+# Order that this section appears on the page.
+weight: 10
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')

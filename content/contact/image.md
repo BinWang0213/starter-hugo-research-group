@@ -5,10 +5,10 @@ widget: slider
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')

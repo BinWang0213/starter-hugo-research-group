@@ -17,7 +17,7 @@ content:
   filters:
     # The folders to display content from
     folders:
-      - event
+      - news
     tag: ''
     category: ''
     publication_type: ''

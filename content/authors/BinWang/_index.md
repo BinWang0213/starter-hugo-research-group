@@ -15,11 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
   - name: China University of Petroleum - Beijing (CUPB)
-    url: ''
-    org_logo: 'assets\media\logo.png'
-  
-  - name: China University of Petroleum - Beijing (CUPB)
-    url: ''
+    url: 'https://www.cup.edu.cn/english/'
     org_logo: 'assets\media\logo.png'
 
 # Short bio (displayed in user profile at end of posts)

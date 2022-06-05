@@ -29,9 +29,12 @@ content:
   # Useful if you wish to show the first item in the Featured widget
   offset: 0
   # Field to sort by, such as Date or Title
-  sort_by: 'Title'
+  sort_by: 'Date'
   sort_ascending: false
 design:
   view: showcase
   columns: '1'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
 ---

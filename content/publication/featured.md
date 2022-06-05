@@ -12,7 +12,7 @@ banner:
   image: ''
 
 content:
-  count: 3
+  count: 2
   filters:
     author: ''
     category: ''
@@ -25,6 +25,9 @@ content:
 design:
   view: 2
   columns: '1'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "20px", "30px", "20px"]
 # reference
 # http://www.casperalbers.nl/post/2020-05-31-connecting-hugo-and-excel-for-your-list-of-publications/
 # https://www.emmanuelteitelbaum.com/post/managing-pubs-academic-website/

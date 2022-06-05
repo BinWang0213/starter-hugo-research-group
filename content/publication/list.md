@@ -8,12 +8,15 @@ weight: 20
 # Activate this widget? true/false
 active: true
 
-title: Publications List
+title:
 subtitle:
 
 design:
   view: 3
   columns: '1'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["30px", "20px", "30px", "20px"]
 ---
 
 

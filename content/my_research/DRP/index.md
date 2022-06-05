@@ -1,14 +1,19 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Digital Rock Imaging and Modeling
+date:
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Digital Rock Imaging and Modeling
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Many geophysical situations involve multi-phase flow through a porous rock; key examples include contamination of groundwater aquifers, oil migration and recovery, methane venting, and subsurface CO2 storage. It is difficult to accurately model and control these flows; the physics of how fluids navigate the disordered, tortuous channels of a 3D porous rock is poorly understood. Even just visualizing flow in 3D rocks is typically impossible. After all, rocks are opaque!
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Our lab has developed expertise to make disordered porous rocks, with controllable pore structures, that are transparent. This capability allows us to visualize multi-phase flow within them in 3D, with high spatial and temporal resolution, over length scales ranging from smaller than a pore to that of the entire medium. We have already used this platform to elucidate the physical origin of fluctuations and instabilities in some immiscible fluid flows. We are currently building on our work to answer questions like:
+- How do structural heterogeneities impact flow behavior?
+- How does the complex rheology of a polymer solution impact how it navigates the pore space?
+- How do colloidal dispersions reshape the pore space and alter subsequent flow through it?
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+### Featured publications with this topic
+
+1. **Wang, B**., Wald, I., Morrical, N., Usher, W., Mu, L., Thompson, K., & Hughes, R. (2022). An GPU-accelerated particle tracking method for Eulerian–Lagrangian simulations using hardware ray tracing cores. Computer Physics Communications, 271, 108221. https://doi.org/10.1016/j.cpc.2021.108221

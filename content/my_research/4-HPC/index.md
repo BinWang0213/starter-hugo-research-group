@@ -3,7 +3,9 @@ title: High-performance Computing and Simulation
 date: 2022-06-01 # this determines the order
 summary: Our lab has developed expertise to visualize and simulate flow and particle trasnport within them in 3D, with high spatial and temporal resolution, over length scales ranging from smaller than a pore to that of the entire medium.
 
-author: ''
+#This can disable a individual page that not requried
+_build:
+  render: never
 ---
 
 Many geophysical situations involve multi-phase flow through a porous rock; key examples include contamination of groundwater aquifers, oil migration and recovery, methane venting, and subsurface CO2 storage. It is difficult to accurately model and control these flows; the physics of how fluids navigate the disordered, tortuous channels of a 3D porous rock is poorly understood. Even just visualizing flow in 3D rocks is typically impossible. After all, rocks are opaque!

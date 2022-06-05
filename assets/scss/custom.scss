@@ -4,3 +4,11 @@ nav#navbar-main li.nav-item {
   font-size: 18px;
   font-weight: bold;
 }
+
+// Make page posts wider
+
+.article-container {
+  max-width: 860px;
+  padding: 0 20px;
+  margin: 0 auto;
+}

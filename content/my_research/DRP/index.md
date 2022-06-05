@@ -2,6 +2,8 @@
 title: Digital Rock Imaging and Modeling
 date: 2099-12-02 # this determines the order
 summary: Our lab has developed expertise to make disordered porous rocks, with controllable pore structures, that are transparent. This capability allows us to visualize multi-phase flow within them in 3D, with high spatial and temporal resolution, over length scales ranging from smaller than a pore to that of the entire medium.
+
+author: ''
 ---
 
 

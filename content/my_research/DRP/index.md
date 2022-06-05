@@ -1,11 +1,10 @@
 ---
 title: Digital Rock Imaging and Modeling
 date:
+summary: Our lab has developed expertise to make disordered porous rocks, with controllable pore structures, that are transparent. This capability allows us to visualize multi-phase flow within them in 3D, with high spatial and temporal resolution, over length scales ranging from smaller than a pore to that of the entire medium.
 ---
 
-Digital Rock Imaging and Modeling
-
-<!--more-->
+<!--Long introduction-->
 
 Many geophysical situations involve multi-phase flow through a porous rock; key examples include contamination of groundwater aquifers, oil migration and recovery, methane venting, and subsurface CO2 storage. It is difficult to accurately model and control these flows; the physics of how fluids navigate the disordered, tortuous channels of a 3D porous rock is poorly understood. Even just visualizing flow in 3D rocks is typically impossible. After all, rocks are opaque!
 

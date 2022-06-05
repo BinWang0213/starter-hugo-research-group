@@ -27,9 +27,8 @@ bio_feature: Dr. Wang's research focuses on understanding the multiphase particl
 interests:
   - Digital rock imaging and modeling
   - High-performance computing and simualtion
-  - Flow and transport in fractured unconventional reservoirs
-  - Nanofluids/P transport in unconventional reservoirs
-  - Proppant transport in complex fracture networks
+  - Flow and transport in fractured porous media
+  - Nanoparticle/Proppant transport behaviors
 
 education:
   courses:
